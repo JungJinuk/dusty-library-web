@@ -23,3 +23,6 @@ yarn-error.log*
 
 # Dotenv files
 .env*.local
+
+# vscode
+.vscode
